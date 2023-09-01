@@ -56,7 +56,6 @@ export default {
             }).catch((error)=>{
                 console.log(error)
                 alert("Error: fallo el registro");
-
             })
         }
     }
